@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Word temporary files
+~$*.docx
+~WRL*.tmp
+*.tmp

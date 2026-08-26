@@ -1,0 +1,12 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+scikit-learn>=1.5,<1.9
+nltk>=3.9
+notebook>=7.0
+torch>=2.3
+transformers>=4.49,<5
+sentencepiece>=0.2
+sacremoses>=0.1
+google-genai>=1.0
+python-dotenv>=1.0
